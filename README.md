@@ -1,4 +1,4 @@
-# Kelly-Criterion
+# Kelly-Criterion Analysis
  
 The goal of this project is to enhance the understanding of the Kelly Criterion, a strategy for bet sizing that optimizes long-term wealth growth. The Kelly Criterion is based on maximizing the expected logarithmic growth of wealth by adjusting bet sizes according to the probability of winning and the odds offered.
 
